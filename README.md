@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amogh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel,React
+- 🌱 Currently learning Laravel,React
 - 💞️ I’m looking to for learning opportunities
 - 📫 reach me through amoghshakya30@gmail.com
 
